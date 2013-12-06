@@ -19,6 +19,7 @@ Look at the tests.
 * Things to watch
   * [WTF is a Monad? - Robert "Uncle Bob" Martin] (http://www.youtube.com/watch?v=Usxf3aLimtU)
   * [Why is a Monad Like a Writing Desk? - Carin Meier] (http://www.infoq.com/presentations/Why-is-a-Monad-Like-a-Writing-Desk)
+  * [Monads Made Easy - Jim Duey] (http://www.infoq.com/presentations/Monads-Made-Easy)
   * [Introduction to Monads - Adam Smyczek] (http://www.youtube.com/watch?v=ObR3qi4Guys)
   
 * Things to git
