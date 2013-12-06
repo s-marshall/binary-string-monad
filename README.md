@@ -1,6 +1,6 @@
 # Still-not-sure-what-a-monad-is
 
-A monad for binary strings written in Clojure to do useless calculations like
+A monad for binary strings written in Clojure to learn about monads and to do useless calculations like
 
       (add "101"  "100")
       (multiply "11" "101")
