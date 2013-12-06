@@ -2,6 +2,11 @@
   (:require [clojure.test :refer :all]
             [binary-string-monad.core :refer :all]))
 
+  (deftest binary-string-to-digits-test
+    (testing  
+      (is (= (binary-string-to-digits "11") [1 1]))
+      (is (= (binary-string-to-digits "1010") [1 0 1 0]))))
+
   (deftest binary-to-decimal-test
     (testing
       (is (= (binary-to-decimal "101") 5))

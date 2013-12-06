@@ -10,7 +10,6 @@
         space (char 32)
         string (filter #(not= space %) (seq binary-string))]
   (map #(if (= zero %) 0 1) string)))
-(= (binary-string-to-digits "1010") [1 0 1 0])
 
 (defn two-power
   "Computes power(2, n) for n >= 0"
