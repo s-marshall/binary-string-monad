@@ -22,9 +22,9 @@ Look at the tests.
   * [Introduction to Monads - Adam Smyczek] (http://www.youtube.com/watch?v=ObR3qi4Guys)
   
 * Things to git
-  [Slides and code for WTF is a Monad?] (https://github.com/unclebob/WTFisaMonad)
-  [Slides for Why is a Monad Like a Writing Desk?] (https://github.com/gigasquid/Presentations/blob/master/monadWritingDesk.pdf)
-  [clojure/algo.monads] (https://github.com/clojure/algo.monads)
+  * [Slides and code for WTF is a Monad?] (https://github.com/unclebob/WTFisaMonad)
+  * [Slides for Why is a Monad Like a Writing Desk?] (https://github.com/gigasquid/Presentations/blob/master/monadWritingDesk.pdf)
+  * [clojure/algo.monads] (https://github.com/clojure/algo.monads)
   
 ## License
 
