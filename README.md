@@ -25,6 +25,7 @@ Look at the tests.
 * Things to git
   * [Slides and code for WTF is a Monad?] (https://github.com/unclebob/WTFisaMonad)
   * [Slides for Why is a Monad Like a Writing Desk?] (https://github.com/gigasquid/Presentations/blob/master/monadWritingDesk.pdf)
+  * [Slides for Monads Made Easy] (https://github.com/strangeloop/2011-slides/blob/master/Duey-MonadsEasy.pdf)
   * [clojure/algo.monads] (https://github.com/clojure/algo.monads)
   
 ## License
